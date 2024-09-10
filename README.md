@@ -65,11 +65,11 @@
   <img width="12" />
 </div>
 
-###
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/MohdFaizU/MohdFaizU/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdFaizU&theme=gotham&hide_title=false&radius=16&area=true&hide_border=true&custom_title=Faiz's%20Contribution%20Graph" height="237" alt="activity-graph graph" />
