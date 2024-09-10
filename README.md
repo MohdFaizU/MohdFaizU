@@ -12,7 +12,7 @@
 
 💬 Ask me about ***Linux, AWS or anything [here](https://github.com/MohdFaizU/MohdFaizU/issues)***
   
-🚀 Currently exploring ***Serverless Architectures and Microservices***
+🚀 Currently exploring ***Serverless Architectures***
 
 ⚡ Fun fact ***I have a knack for turning coffee into code!***
 
