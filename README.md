@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdFaizU&theme=gotham&hide_title=false&radius=16&area=true&hide_border=true&custom_title=Faiz's%20Contribution%20Graph" height="200" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdFaizU&theme=gotham&hide_title=false&radius=16&area=true&hide_border=true&custom_title=Faiz's%20Contribution%20Graph" height="237" alt="activity-graph graph" />
 <img src="https://streak-stats.demolab.com?user=MohdFaizU&locale=en&mode=daily&theme=gotham&hide_border=true" height="150" alt="streak graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohdFaizU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&custom_title=Most%20Used%20Languages" height="150" alt="languages graph" />
 </div>
