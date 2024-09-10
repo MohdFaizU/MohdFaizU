@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Faiz</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz!;+A+software+developer;+In+Canada+🇨🇦;" />
+</h1>
 
-###
+<img align="right" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<br>
+<br>
 
-<h2 align="center">A passionate software developer in Canada 🇨🇦</h2>
+🔭 I’m currently working on ***Banking App, Notes App***
 
-###
+🌱 I’m currently learning ***Cloud Architectures and DevOps***
+
+💬 Ask me about ***Linux, AWS or anything [here](https://github.com/MohdFaizU/MohdFaizU/issues)***
+  
+🚀 Currently exploring ***Serverless Architectures and Microservices***
+
+⚡ Fun fact ***I have a knack for turning coffee into code!***
 
 <br clear="both">
 <h4 align="left">Languages, Frameworks and Tools:</h4>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -96,5 +105,3 @@
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="50" alt="Hashnode logo"  />
   </a>
 </div>
-
-###
