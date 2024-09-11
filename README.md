@@ -14,7 +14,7 @@
   
 🚀 Currently exploring ***Serverless Architectures***
 
-⚡ Fun fact ***I have a knack for turning coffee into code!***
+⚡ Fun fact ***It’s all 0’s and 1’s!***
 
 <br clear="both">
 <h4 align="left">Languages, Frameworks and Tools:</h4>
