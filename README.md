@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faiz!;+A+software+developer;+In+Canada+🇨🇦;" />
 </h1>
 
-<img align="left" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <br>
 <br>
 
