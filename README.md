@@ -19,7 +19,6 @@
 
 <br clear="both">
 <h4 align="left">Languages, Frameworks and Tools:</h4>
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
