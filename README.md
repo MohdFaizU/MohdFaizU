@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 <br>
 <br>
+<br>
 
 🔭 I’m currently working on ***Banking App, Notes App***
 
@@ -18,7 +19,7 @@
 
 <br clear="both">
 <h4 align="left">Languages, Frameworks and Tools:</h4>
-
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
