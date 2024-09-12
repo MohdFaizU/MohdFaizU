@@ -3,9 +3,6 @@
 </h1>
 
 <img align="right" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
-<br>
-<br>
-<br>
 
 🔭 I’m currently working on ***Banking App, Notes App***
 
