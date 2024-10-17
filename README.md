@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on ***Banking App, Notes App***
 
-🌱 I’m currently learning ***Cloud Architectures and DevOps***
+🌱 I’m currently learning ***Ruby and Ruby on Rails***
 
 💬 Ask me about ***Linux, AWS or anything [here](https://github.com/MohdFaizU/MohdFaizU/issues)***
   
