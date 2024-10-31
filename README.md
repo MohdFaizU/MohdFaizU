@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" height="300" width="400" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
-🔭 I’m currently working on ***Banking App, Notes App***
+🔭 I’m currently working on ***Web Identity Federation & Hybrid DNS***
 
-🌱 I’m currently learning ***Ruby and Ruby on Rails***
+🌱 I’m currently learning ***Terraform and Jenkins***
 
 💬 Ask me about ***Linux, AWS or anything [here](https://github.com/MohdFaizU/MohdFaizU/issues)***
   
