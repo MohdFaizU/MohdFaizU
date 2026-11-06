@@ -71,7 +71,9 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=MohdFaizU&locale=en&mode=daily&theme=gotham&hide_border=true" height="150" alt="streak graph" />
+</div>
 
 <br clear="both">
 
@@ -84,8 +86,5 @@
   </a>
   <a href="https://ko-fi.com/mofaiz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="ko-fi logo"  />
-  </a>
-  <a href="https://hashnode.com/@moFaiz" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="46" alt="Hashnode logo"  />
   </a>
 </div>
